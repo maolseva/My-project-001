@@ -3,4 +3,10 @@ h1 {
     color: blue;
 }
 img 
-{ border-radius: 0.5cm;}
+{ border-radius: 0.5cm;
+}
+.contact-button {
+    display: block;
+    margin: 0 auto;
+
+}
